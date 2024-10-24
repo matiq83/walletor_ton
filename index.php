@@ -26,7 +26,6 @@ define('WALLETOR_TON_ASSETS_DIR_URL', WALLETOR_TON_PLUGIN_URL . 'assets/');
 define('WALLETOR_TON_ASSETS_DIR_PATH', WALLETOR_TON_PLUGIN_PATH . 'assets/');
 define('WALLETOR_TON_SETTINGS_KEY', '_walletor_ton_options');
 define('WALLETOR_TON_TEXT_DOMAIN', 'walletor_ton');
-define('WALLETOR_TON_UPDATE_URL', 'http://portfolio.itfledge.com/wp0822/wp-content/plugins/');
 
 //Plugin update checker
 require WALLETOR_TON_PLUGIN_PATH . 'update/plugin-update-checker.php';
